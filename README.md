@@ -5,12 +5,6 @@
 
 Here are some ideas to get you started:
 
-
-
-
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=FULLK&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile&custom_title=PASSION！！！"/>
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=FULLK&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile&custom_title=PASSION！！！"/>
+
+

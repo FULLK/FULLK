@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://blog.csdn.net/llovewuzhengzi?type=blog" target="_blank"><img  align=left src="https://img.shields.io/badge/CSDN-看星猩的柴狗-%231677ff?style=flat"/></a>
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FULLK&locale=en&line_height=33&theme=&langs_count=20&layout=compact&custom_title=PASSION！！！"/>
 <img   align="right" src="https://github-readme-stats.vercel.app/api?username=FULLK&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile&custom_title=PASSION！！！"/>

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://space.bilibili.com/1786407475?spm_id_from=333.1387.0.0" target="_blank"><img  align=left src="https://img.shields.io/badge/bilbili-看星猩的柴狗-%23ff1676?style=flat"/></a>
 
 <a href="https://forum.butian.net/people/33851/community" target="_blank"><img  align=left src="https://img.shields.io/badge/奇安信攻防社区-看星猩的柴狗-%230f8c32?style=flat"/></a>
-
+<a href="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true"/></a>
 # 动态
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FULLK&locale=en&line_height=33&theme=&langs_count=20&layout=compact&custom_title=PASSION！！！"/>

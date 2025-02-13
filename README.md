@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 相关信息
-<a href="https://blog.csdn.net/llovewuzhengzi?type=blog" target="_blank"><img  align=left src="https://img.shields.io/badge/CSDN-看星猩的柴狗-%231677ff?style=flat"/></a>
+<a href="https://blog.csdn.net/llovewuzhengzi?type=blog" target="_blank"><img  align=center src="https://img.shields.io/badge/CSDN-看星猩的柴狗-%231677ff?style=flat"/></a>
 
-<a href="https://space.bilibili.com/1786407475?spm_id_from=333.1387.0.0" target="_blank"><img  align=left src="https://img.shields.io/badge/bilbili-看星猩的柴狗-%23ff1676?style=flat"/></a>
+<a href="https://space.bilibili.com/1786407475?spm_id_from=333.1387.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/bilbili-看星猩的柴狗-%23ff1676?style=flat"/></a>
 
 # 动态
 

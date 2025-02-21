@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center"> 
 
 </p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4A20FB&width=600&lines=Hi+friends.+I'm+LLK%2Chere+you+can+know+all+about+me)](https://git.io/typing-svg)
 # 个人信息👤  
 
 # 我的项目📚

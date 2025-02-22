@@ -45,7 +45,7 @@ llk/看星猩的柴狗😉/liu like
 I like playing CF and want to crack down on other players' cheating behavior by learning reverse engineering.
 
 
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg)
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub")
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FULLK&locale=en&line_height=33&theme=&langs_count=20&layout=compact&custom_title=language"/>
 

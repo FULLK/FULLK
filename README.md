@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4A20FB&center=true&vCenter=true&width=600&lines=Hi+friends.+I'm+LLK%2Chere+you+can+know+all+about+me)](https://git.io/typing-svg)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{访问次数}/count.svg)
-
+[![Visitor Count](https://profile-counter.glitch.me/{访问次数}/count.svg)
+](https://stats.justsong.cn/api/csdn?id=llovewuzhengzi)
 </p>
 
 

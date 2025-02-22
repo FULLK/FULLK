@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4A20FB&center=true&vCenter=true&width=600&lines=Hi+friends.+I'm+LLK%2Chere+you+can+know+all+about+me)](https://git.io/typing-svg)
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/{ubrong}/count.svg)
 
 </p>
 
@@ -15,6 +15,7 @@
 <a href="https://blog.csdn.net/llovewuzhengzi?type=blog" target="_blank"><img  align=center src="https://img.shields.io/badge/CSDN-%23ff4116?style=flat"/></a>
 <a href="https://forum.butian.net/people/33851/community" target="_blank"><img  align=center src="https://img.shields.io/badge/奇安信攻防社区-%23079a3a?style=flat"/></a>
 
+https://stats.justsong.cn/api/csdn?id={uid:string}
 
 # 🔭 I’m currently working on ...
 

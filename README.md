@@ -10,7 +10,7 @@
 </p>
 
 
-# 💡 My blog
+#  📝 My blog
 
 <a href="https://blog.csdn.net/llovewuzhengzi?type=blog" target="_blank"><img  align=center src="https://img.shields.io/badge/CSDN-%23ff4116?style=flat"/></a>
 <a href="https://forum.butian.net/people/33851/community" target="_blank"><img  align=center src="https://img.shields.io/badge/奇安信攻防社区-%23079a3a?style=flat"/></a>
@@ -45,7 +45,7 @@ llk/看星猩的柴狗😉/liu like
 I like playing CF and want to crack down on other players' cheating behavior by learning reverse engineering.
 
 
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub")
+# 💡 github status
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FULLK&locale=en&line_height=33&theme=&langs_count=20&layout=compact&custom_title=language"/>
 

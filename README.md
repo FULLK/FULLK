@@ -48,7 +48,6 @@ I like playing CF and want to crack down on other players' cheating behavior by 
 # 💡 github status
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FULLK&locale=en&line_height=33&theme=&langs_count=20&layout=compact&custom_title=language"/>
-
 <img   align="right" src="https://github-readme-stats.vercel.app/api?username=FULLK&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile&custom_title=statistics"/>
 
 

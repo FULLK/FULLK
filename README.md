@@ -23,7 +23,7 @@ I'm currently an undergraduate student at YNU.
 # 🌱 I’m currently learning ...
 
 
-I’m currently learning fuzzing, IoT security, and embodied-AI.
+I’m currently learning fuzzing, IoT security, Fuzz, and embodied-AI 
 
 # 👯 I’m looking to collaborate on ...
  any type of internship opportunity.
@@ -32,7 +32,7 @@ I’m currently learning fuzzing, IoT security, and embodied-AI.
 
 # 💬 Ask me about ..
 
-CTF-pwn/IOT/IoT-security/Embodied-Al/ROS
+CTF-pwn/IOT/IoT-security/Embodied-Al/ROS/Fuzz
 # 📫 How to reach me: ..
 
 My email: llk1010@foxmail.com

@@ -19,20 +19,18 @@
 # 🔭 I’m currently working on ...
 
 I'm currently an undergraduate student at YNU.
+I will start working at Alibaba around July next year.
+
+# My work experience
+2025-5 ~ 2025-10: Alibaba Intern
 
 # 🌱 I’m currently learning ...
 
-
-I’m currently learning fuzzing, IoT security, Fuzz, and embodied-AI 
-
-# 👯 I’m looking to collaborate on ...
- any type of internship opportunity.
-# 🤔 I’m looking for help with ...
- any type of internship opportunity.
+I’m currently learning pwn and AI 
 
 # 💬 Ask me about ..
 
-CTF-pwn/IOT/IoT-security/Embodied-Al/ROS/Fuzz
+AI/Pwn
 # 📫 How to reach me: ..
 
 My email: llk1010@foxmail.com
